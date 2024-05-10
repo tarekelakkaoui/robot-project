@@ -1,4 +1,4 @@
-# robot-project-ecse211
+# robot-project
 
 - project
     - doc: documentation for the brick API
